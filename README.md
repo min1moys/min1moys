@@ -1,16 +1,15 @@
-## Hi there 👋
+**min1moys** — System Administrator and Cybersecurity Specialist.
 
-<!--
-**min1moys/min1moys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### DESCRIPTION
+Focused on the administration of secure, Linux-based environments and the implementation of privacy-preserving infrastructure. I specialize in system hardening, network analysis, and maintaining digital sovereignty.
 
-Here are some ideas to get you started:
+My approach combines technical precision with an analytical perspective derived from interests in psychology and logic. I build systems designed to operate autonomously and securely.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### AREAS OF EXPERTISE
+* **System Administration:** Advanced Debian management, server automation, and disaster recovery planning.
+* **Cybersecurity:** Vulnerability assessment, system hardening, and privacy engineering.
+* **Development:** Backend scripting and tool creation for infrastructure management.
+
+### NOTES
+I prioritize open-source solutions and transparent architecture.
+Esthetics and order are functional requirements, not optional additions.
