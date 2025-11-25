@@ -1,15 +1,13 @@
-**min1moys** — System Administrator and Cybersecurity Specialist.
+### 👋 Hi, I'm Mirosław (min1moys)
 
-### DESCRIPTION
-Focused on the administration of secure, Linux-based environments and the implementation of privacy-preserving infrastructure. I specialize in system hardening, network analysis, and maintaining digital sovereignty.
+I am an **IT Specialist** focused on **System Administration** and **Cybersecurity**.
 
-My approach combines technical precision with an analytical perspective derived from interests in psychology and logic. I build systems designed to operate autonomously and securely.
+My work lies at the intersection of technical logic and human behavior. With a background interest in psychology, I approach technology not just as code, but as a system that interacts with people. I value **digital sovereignty**, **minimalism**, and **stability**.
 
-### AREAS OF EXPERTISE
-* **System Administration:** Advanced Debian management, server automation, and disaster recovery planning.
-* **Cybersecurity:** Vulnerability assessment, system hardening, and privacy engineering.
-* **Development:** Backend scripting and tool creation for infrastructure management.
+I don't chase trends; I build resilient infrastructure that simply works.
 
-### NOTES
-I prioritize open-source solutions and transparent architecture.
-Esthetics and order are functional requirements, not optional additions.
+<br>
+
+<div align="center">
+  <code>root@min1moys:~# exit</code>
+</div>
